@@ -1,3 +1,5 @@
+#给远程窗口起别名：git remote add origin 远程仓库地址
+#向远程推送代码：  git push -u origin 分支
 #8.18使用六期的数据获取热度第二的号码去预测下一期
 #程序有错
 import re
